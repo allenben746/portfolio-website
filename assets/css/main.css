@@ -294,7 +294,7 @@ input, select, textarea {
 		.row > * {
 			box-sizing: border-box;
 		}
-
+		
 		.row.gtr-uniform > * > :last-child {
 			margin-bottom: 0;
 		}
@@ -1969,7 +1969,6 @@ input, select, textarea {
 			.icon.featured:before {
 				font-size: 6em;
 			}
-
 /* Wrappers */
 
 	.wrapper {
@@ -2122,7 +2121,9 @@ input, select, textarea {
 	#contact footer {
 		font-size: 0.9em;
 	}
-
+footer {
+	margin: 0 auto;
+}
 /* Copyright */
 
 	#copyright {
@@ -2428,4 +2429,4 @@ input, select, textarea {
 						margin-top: 0;
 					}
 
-	}
+	
